@@ -1,0 +1,25 @@
+* {
+    text-align: center;
+}
+
+.scores {
+    display: flex;
+    flex: 1;
+    gap: 10%;
+    padding-left: 2rem;
+    justify-content: center;
+}
+
+.options {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.playerscore h4 {
+    text-align: center;
+}
+
+.cpuscore h4 {
+    text-align: center;
+}
